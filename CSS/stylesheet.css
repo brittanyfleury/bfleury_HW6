@@ -1,0 +1,35 @@
+ul#navlist {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: relative;
+  }
+  
+.wrap {
+    margin: 0 auto;
+    width: 90%;
+  }
+  
+  #navlist li {
+    display: block ;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    font-variant: serif;
+    padding: 10px;
+  }
+  
+  #navlist a {
+    padding: 10px 10px;
+  }
+  
+  #navlist a:link, #navlist a:visited {
+    color: #fff;
+    background-color: #036;
+    text-decoration: none;
+  }
+  
+  #navlist a:hover {
+    color: #003366;
+    background-color: #d5d5d5;
+    text-decoration: none;
+  }
