@@ -31,3 +31,67 @@ ul#navlist {
     text-decoration: none;
   }
 
+.aboutme {
+  padding:60px;
+  text-align: left;
+  font-size:30px
+}
+.Header1{
+  font-size: 50px;
+  text-align: center
+}
+
+
+.column {
+  float: left;
+  width: 34.33%;
+  padding: 7px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.photogallery{
+  font-size: 20px;
+}
+
+.funfact{
+  font-size: 25px;
+}
+
+.careerinterest{
+  font-size: 25px;
+}
+
+th.day {
+  text-align: center;
+  background-color: #dcdcdc;
+  padding: 5px;
+  border: none;
+}
+
+th.course {
+  text-align: right;
+  background-color: #dcdcdc;
+  padding: 5px;
+  border: none;
+}
+
+td {
+  padding: 5px 5px 5px 5px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #dcdcdc;
+}
+
+.tech {
+  padding:30px;
+  text-align: left;
+  font-size:25px}
+
+
+ .paragraph{position:relative; top:-70px;}
