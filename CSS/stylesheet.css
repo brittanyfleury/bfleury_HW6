@@ -4,10 +4,7 @@ ul#navlist {
     padding: relative;
   }
   
-.wrap {
-    margin: 0 auto;
-    width: 90%;
-  }
+
   
   #navlist li {
     display: block ;
@@ -33,3 +30,4 @@ ul#navlist {
     background-color: #d5d5d5;
     text-decoration: none;
   }
+
